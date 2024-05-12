@@ -1,0 +1,19 @@
+* {
+    margin: 4;
+    padding: 4;
+
+}
+
+.cabecalho{
+background-color: green;
+color: floralwhite;
+display: flex;
+justify-content: space-around;
+align-items: flex-start;
+padding: 24px 0;
+
+
+}
+.cabecalho-div{
+    display: flex;
+}
